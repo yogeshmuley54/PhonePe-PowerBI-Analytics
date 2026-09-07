@@ -215,10 +215,19 @@ This project demonstrates how Power BI can be used to convert digital payment da
 
 The dashboard combines data preparation, data modeling, DAX, time intelligence, visualization, and business analysis into a single reporting solution designed to support data-driven decision making.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Yogesh Muley
+**Yogesh Muley**
 
-Power BI | Data Analytics | Business Intelligence
+**Data Analyst | Power BI | SQL | Excel | Business Intelligence**
 
-⭐ If you find this project useful, feel free to explore the repository and connect with me on LinkedIn.
+Interested in transforming data into meaningful business insights through analytics and interactive reporting.
+
+### 🔗 Connect
+
+- 💼 [LinkedIn](www.linkedin.com/in/yogeshmuley)
+- 🐙 [GitHub](https://github.com/yogeshmuley54)
+
+---
+
+⭐ If you found this project useful, consider starring the repository.
