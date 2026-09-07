@@ -147,6 +147,18 @@ The project demonstrates practical implementation of:
 - Data modeling
 
 ---
+## 💡 Key Business Insights
+
+Based on the dashboard analysis:
+
+- 💰 **Loans** is the leading service by transaction value, contributing approximately **₹0.84B**, significantly higher than the other services shown.
+- 👥 **Gen X and Millennials** are the largest contributing age segments, accounting for approximately **37.4%** and **37.3%** respectively.
+- 📅 **Weekday transactions** account for approximately **72.01%** of usage, while weekends contribute **27.99%**.
+- ✅ The dashboard shows an overall **payment success rate of 96.01%**, indicating strong transaction completion performance.
+- 📈 Total transaction value stands at approximately **₹1.15B**, with the dashboard showing **0.23% month-over-month growth**.
+- 🏆 Among the displayed top users by transaction value, **Robert Smith** and **Jennifer Williams** lead at approximately **₹0.54M** each.
+- 📊 Transaction activity shows a changing monthly pattern across the months displayed, with **May showing the strongest overall position in the trend**.
+- 👤 The dashboard provides a consolidated view of **108K unique users** and approximately **100K transactions**, enabling analysis of both customer scale and transaction activity.
 
 ## 🔍 Key Skills Demonstrated
 
