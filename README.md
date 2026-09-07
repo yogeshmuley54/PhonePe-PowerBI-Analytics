@@ -176,7 +176,7 @@ The project demonstrates practical implementation of:
 
 ## 📷 Dashboard Preview
 
-> Dashboard screenshots will be added here.
+![PhonePe Power BI Dashboard](Screenshots/PhonePe_Dashboard.png).
 
 ---
 
